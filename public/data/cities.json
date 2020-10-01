@@ -1,0 +1,38 @@
+[
+    {
+        "source": "Kolkata",
+        "source_code": "KOL"
+    },
+    {
+        "source": "Pune",
+        "source_code": "PUN"
+    },
+    {
+        "source": "Mumbai",
+        "source_code": "MUM"
+    },
+    {
+        "source": "Bangalore",
+        "source_code": "BLR"
+    },
+    {
+        "source": "Hyderabad",
+        "source_code": "HYD"
+    },
+    {
+        "source": "Delhi",
+        "source_code": "DEL"
+    },
+    {
+        "source": "Chandigarh",
+        "source_code": "CHD"
+    },
+    {
+        "source": "Chennai",
+        "source_code": "CHN"
+    },
+    {
+        "source": "Ahmedabad",
+        "source_code": "AHD"
+    }
+]
